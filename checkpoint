@@ -1,0 +1,2 @@
+model_checkpoint_path: "rlogmodel_train"
+all_model_checkpoint_paths: "rlogmodel_train"
