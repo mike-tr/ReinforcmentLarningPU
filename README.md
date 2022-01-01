@@ -1,4 +1,4 @@
-# ReinforcmentLarningPU
+# ReinforcmentLearningPU
 
 DqnModel.py is the actuall, reinforcment learning part.
 
